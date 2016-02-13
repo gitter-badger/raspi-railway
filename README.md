@@ -2,7 +2,7 @@
 Raspberry Pi based control system for model railways
 
 ## Train Control
-raspi-railway is a method of controlling model trains using affordable and wideley avalible components in a typical "DC" model railway layout. At it's very basic level raspi-railway may be used as an advanced train controller, However...
+raspi-railway is a method of controlling model trains using affordable and widley avalible components in a typical "DC" model railway layout. At it's very basic level raspi-railway may be used as an advanced train controller, However...
 
 ## Automated Train Control
 raspi-railway may also be used to control multiple trains in automated routes. By installing simple and widely availble electronic components to your layout (don't worry, we'll provide installation examples here!) raspi-railway may select different routes for your trains, stop them at stations and observe signalling... which may also be controlled via raspi-railway.
