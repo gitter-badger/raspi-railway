@@ -3,7 +3,7 @@ Installing Raspbian Operating System Images Using Windows
 
 There are many ways to write the Raspbian disk image to the SD card. Below is the tried and true method we think is the easiest. Disagree... let us know or send a pull request.
 
-## Steps
+### Steps
 
 - Insert the SD card into your SD card reader and check which drive letter was assigned. You can easily see the drive letter (for example `G:`) by looking in the left column of Windows Explorer. You can use the SD Card slot (if you have one) or a cheap SD adaptor in a USB port.
 - Download the Win32DiskImager utility from the [Sourceforge Project page](http://sourceforge.net/projects/win32diskimager/) (it is also a zip file); you can run this from a USB drive.

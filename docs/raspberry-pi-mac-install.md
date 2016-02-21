@@ -3,7 +3,7 @@ Installing Raspbian Operating System Images Using Mac OS
 
 There are many ways to write the Raspbian disk image to the SD card. Below is the tried and true method we think is the easiest. Disagree... let us know or send a pull request.
 
-## (Mostly) graphical interface
+### (Mostly) graphical interface
 
 - Connect the SD card reader with the SD card inside. Note that it must be formatted in FAT32.
 - From the Apple menu, choose About This Mac, then click on More info...; if you are using Mac OS X 10.8.x Mountain Lion or newer then click on System Report.

@@ -3,7 +3,7 @@ Raspi-Railway Components List
 
 The following components are used to build the Raspi-Railway model railway controller.
 
-Basic Setup:
+### Basic Setup:
 * Raspberry Pi 2 Model B
 * 8GB Micro SD card - Class 10 speed recommended
 * Nano Wifi dongle ([Ralink RT5370 Chipset](https://www.google.co.uk/#q=Ralink+RT5370+wifi+dongle))
