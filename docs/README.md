@@ -9,7 +9,7 @@ In addition to the Raspberry Pi 2, you will need a motor controller, WiFi dongle
 
 ### How do I get started?
 
-Following this guide will get you from a pile of components to trains moving around your track in _??_ easy steps. Just follow the links below and your trains will be running in no time:
+Following this guide will get you from a pile of components to trains moving around your model railway layout in easy steps. Just follow the links below and your trains will be running in no time:
 
 1. [Raspberry Pi first setup](raspberry-pi-first-setup.md)
 2. [Raspberry Pi network setup](raspberry-pi-network-setup.md)
