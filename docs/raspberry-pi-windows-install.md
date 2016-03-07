@@ -13,7 +13,7 @@ There are many ways to write the Raspbian disk image to the SD card. Below is th
 - Click `Write` and wait for the write to complete.
 - Exit the imager and eject the SD card.
 
-*This guide uses content from the eLinux wiki page [RPi_Easy_SD_Card_Setup](http://elinux.org/RPi_Easy_SD_Card_Setup), which is shared under the [Creative Commons Attribution-ShareAlike 3.0 Unported license](http://creativecommons.org/licenses/by-sa/3.0/)*
-
 ---
 [< Back](raspi-railway-getting-started-guide.md) - Raspi-Railway Getting Started Guide
+
+*This guide uses content from the eLinux wiki page [RPi_Easy_SD_Card_Setup](http://elinux.org/RPi_Easy_SD_Card_Setup), which is shared under the [Creative Commons Attribution-ShareAlike 3.0 Unported license](http://creativecommons.org/licenses/by-sa/3.0/)*

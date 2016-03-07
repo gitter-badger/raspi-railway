@@ -22,9 +22,9 @@ There are many ways to write the Raspbian disk image to the SD card. Below is th
        ```
        sudo dd bs=1m if=path_of_your_image.img of=/dev/diskn
        ```
+       *(Note: This command can take 15+ minutes to complete. Please be patient.)*
+---
+[< Back](raspberry-pi-first-setup.md) - Raspberry Pi First Setup
 
 *This guide uses content from the Raspberry Pi Foundation page
 [Installing Operating System Images on Mac OS](https://www.raspberrypi.org/documentation/installation/installing-images/mac.md), which is shared under the [Creative Commons Attribution-ShareAlike 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/)*
-
----
-[< Back](raspberry-pi-first-setup.md) - Raspberry Pi First Setup

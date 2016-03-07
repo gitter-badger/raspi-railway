@@ -19,11 +19,10 @@ See our guide for your system:
 
 ### Next Step
 
-Now it is time to [setup the network], to allow you to connect to Raspi-Railway via a web browser.
-
-
-_This guide uses content from the Raspberry Pi Foundation page
-[Installing Operating System Images](https://www.raspberrypi.org/documentation/installation/installing-images/README.md), which is shared under the [Creative Commons Attribution-ShareAlike 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/)_
+Now it is time to [setup the network](raspberry-pi-network-setup.md), to allow you to connect to Raspi-Railway via a web browser.
 
 ---
 [< Back](raspi-railway-getting-started-guide.md) - Raspi-Railway Getting Started Guide
+
+*This guide uses content from the Raspberry Pi Foundation page
+[Installing Operating System Images](https://www.raspberrypi.org/documentation/installation/installing-images/README.md), which is shared under the [Creative Commons Attribution-ShareAlike 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/)*
