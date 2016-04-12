@@ -1,4 +1,6 @@
 # raspi-railway
+
+[![Join the chat at https://gitter.im/raspi-railway/raspi-railway](https://badges.gitter.im/raspi-railway/raspi-railway.svg)](https://gitter.im/raspi-railway/raspi-railway?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Raspberry Pi based control system for model railways
 
 ## Train Control
